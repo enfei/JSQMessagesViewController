@@ -1,11 +1,16 @@
+> This library is ⚠️ [deprecated](https://www.jessesquires.com/blog/officially-deprecating-jsqmessagesviewcontroller/) ⚠️ and is **only** accepting pull requests for critical bug fixes. Consider using [MessageKit](https://github.com/MessageKit/MessageKit) for new projects.
+
 ## Pull request checklist
 
-- [ ] All tests pass. Demo project builds and runs.
-- [ ] I have resolved any merge conflicts.
-- [ ] I have followed the [coding style](https://github.com/jessesquires/HowToContribute#style-guidelines), and reviewed the [contributing guidelines](https://github.com/jessesquires/JSQMessagesViewController/blob/develop/.github/CONTRIBUTING.md). Confirmation: ____
+- [ ] I understand that this library is ⚠️ [deprecated](https://www.jessesquires.com/blog/officially-deprecating-jsqmessagesviewcontroller/) ⚠️ and is **only** accepting pull requests for critical bug fixes.
+- [ ] All tests pass. 
+- [ ] Demo project builds and runs.
+- [ ] I have resolved merge conflicts.
+- [ ] I have followed the [coding style](https://github.com/jessesquires/HowToContribute#style-guidelines). 
 
-#### This fixes issue #___.
+[Contributing guidelines](https://github.com/jessesquires/JSQMessagesViewController/blob/develop/.github/CONTRIBUTING.md) confirmation: ____
+
+#### This fixes issue #
 
 ## What's in this pull request?
 
->...
