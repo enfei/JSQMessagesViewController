@@ -141,6 +141,7 @@ static NSMutableSet *jsqMessagesCollectionViewCellActions = nil;
     
     UITapGestureRecognizer *tap = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(jsq_handleTapGesture:)];
     [self addGestureRecognizer:tap];
+    [self.textView addGestureRecognizer:tap];
     self.tapGestureRecognizer = tap;
 }
 
